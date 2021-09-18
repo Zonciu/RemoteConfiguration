@@ -1,0 +1,14 @@
+*.suo
+*.user
+.vs/
+.idea/
+[Bb]in/
+[Oo]bj/
+_UpgradeReport_Files/
+[Pp]ackages/
+riderModule.iml
+/_ReSharper.Caches/
+
+Thumbs.db
+Desktop.ini
+.DS_Store
